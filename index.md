@@ -1,5 +1,3 @@
-# lksapp.github.io
-Privacy policy
 <!DOCTYPE html>
     <html>
     <head>
